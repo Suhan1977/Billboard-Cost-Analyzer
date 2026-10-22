@@ -1,0 +1,16 @@
+location_id,location,city,type,monthly_cost,monthly_impressions
+1,Airport Road Junction,Mumbai,Digital,450000,2400000
+2,Sea Link Approach,Mumbai,Static,300000,1400000
+3,Connaught Circle,Delhi,Digital,520000,2900000
+4,Ring Road Flyover,Delhi,Static,180000,850000
+5,MG Road Metro,Bengaluru,Digital,380000,2000000
+6,Outer Ring Road Tech Park,Bengaluru,Static,150000,950000
+7,HITEC City Signal,Hyderabad,Digital,260000,1350000
+8,Charminar Market Road,Hyderabad,Static,90000,420000
+9,Anna Salai Crossing,Chennai,Static,140000,650000
+10,Marina Beach Road,Chennai,Digital,300000,1250000
+11,Park Street Intersection,Kolkata,Static,110000,640000
+12,Salt Lake Sector V,Kolkata,Digital,200000,1100000
+13,SG Highway Exit,Ahmedabad,Static,95000,610000
+14,Pink City Gate,Jaipur,Static,70000,380000
+15,Railway Station Bridge,Jaipur,Digital,160000,870000
